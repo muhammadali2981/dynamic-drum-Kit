@@ -6,7 +6,7 @@ Click on the drum images or press keys to play different drum sounds.
 ---
 
 ## 🚀 Live Demo  
-👉 [View Project](https://your-username.github.io/drum-kit/)  
+👉 [View Project](https://github.com/muhammadali2981/dynamic-drum-Kit.git)  
 
 ---
 
