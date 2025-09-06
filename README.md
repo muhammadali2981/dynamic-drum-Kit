@@ -11,7 +11,7 @@ Click on the drum images or press keys to play different drum sounds.
 ---
 
 ## ✨ Features  
-- Play sounds using mouse clicks or keyboard keys  
+- Play sounds using mouse clicks or keyboard keys,  
 - Theme toggle (light/dark mode)  
 - Background scroll effect  
 - Smooth animations on drum images  
