@@ -16,7 +16,7 @@ body{
 
 .page-1{
 
-    height: 100vh;
+    height: 110vh;
     width: 100vw;
     background: url("https://media.istockphoto.com/id/805764964/photo/rock-n-roll-drummer-sparkles-in-the-air.jpg?s=1024x1024&w=is&k=20&c=usMo-YLuEj81KCN7FITQtYvuEqtHuLVHYP2V0_ujlCM=");
     background-repeat: no-repeat;
@@ -33,6 +33,7 @@ body{
     height:100vh ;
     /* background-color: antiquewhite; */
     width: 100vw;
+    
     position: relative;
     padding: 0;
     margin-top: 0px;
@@ -50,14 +51,16 @@ body.dark-theme {
 }
 
 .theme-btn {
-    background-color: rgb(16, 18, 138);  /* bright green in light mode */
+    /* background-color: rgb(16, 18, 138);  bright green in light mode */
+   background-color: transparent;
+   text-shadow: 0px 0px 20px rgb(68, 151, 235);
     border: none;
     border-radius: 50%;
     height: 3rem;
     width: 3rem;
     font-size: 24px;
     right: 20px;
-    top: 10px;
+    top: 17px;
     position: absolute;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -65,8 +68,9 @@ body.dark-theme {
 
 /* Dark mode button */
 .theme-btn.dark-btn {
-    background-color: rgb(146, 229, 52);  /* blue in dark mode */
+    /* background-color: rgb(146, 229, 52);  blue in dark mode */
     color: white;
+    text-shadow: 0px 0px 20px greenyellow;
 }
 
 /* Press animation */
@@ -75,7 +79,7 @@ body.dark-theme {
 }
 .navbar{
 
-    margin-top: -15px;margin-bottom: -18px;
+    margin-top: 35px;margin-bottom: -18px;
 }
 
 @keyframes rotate {
